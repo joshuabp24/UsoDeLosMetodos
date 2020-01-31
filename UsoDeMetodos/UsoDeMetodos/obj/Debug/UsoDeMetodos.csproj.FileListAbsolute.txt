@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\UsoDeMetodos\UsoDeMetodos\bin\Debug\UsoDeMetodos.exe.config
+C:\Users\PC\source\repos\UsoDeMetodos\UsoDeMetodos\bin\Debug\UsoDeMetodos.exe
+C:\Users\PC\source\repos\UsoDeMetodos\UsoDeMetodos\bin\Debug\UsoDeMetodos.pdb
+C:\Users\PC\source\repos\UsoDeMetodos\UsoDeMetodos\obj\Debug\UsoDeMetodos.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\UsoDeMetodos\UsoDeMetodos\obj\Debug\UsoDeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\UsoDeMetodos\UsoDeMetodos\obj\Debug\UsoDeMetodos.exe
+C:\Users\PC\source\repos\UsoDeMetodos\UsoDeMetodos\obj\Debug\UsoDeMetodos.pdb
